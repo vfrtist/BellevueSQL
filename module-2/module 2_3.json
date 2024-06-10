@@ -1,0 +1,8 @@
+{
+    "Birthday": "date",
+    "Roles": {
+        "Role1": "Role1",
+        "Role2": "Role2"
+    },
+    "Dependents": {}
+}
